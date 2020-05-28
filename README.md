@@ -1,8 +1,9 @@
-# Book-reader
-This is a program that empowers one to give input language and get the yield in the favored language . 
+###### Book-reader
+## This is a program that empowers one to give input language and get the yield in the favored language . 
+![](1_-T8oo_JoKkMxfnPKLt_Ciw.jpeg)
 
 It is an application which is utilized to change over any content into discourse in any attractive language. It is made for the helpful of the individuals who can't see and are much intrested in perusing. Indeed, even the people who needs to peruse or listen the book in various dialects can benefit the office. 
-
+## Tools used :
 We utilized cv2 to snap the photo and afterward pytesseract to get the picture in the PC to change the language utilizing "SentimentIntensityAnalyzer" where Sentiment Analysis is the procedure of 'computationally' deciding if a bit of composing is certain, negative or impartial. It's otherwise called conclusion mining, determining the assessment or demeanor of a speaker. 
 
 VADER Sentiment Analysis : 
